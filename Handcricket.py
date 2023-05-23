@@ -9,7 +9,7 @@ def play_hand_cricket():
     print("When batting, enter a number from 1 to 6 to score runs.")
     print("If your number matches the computer's number while batting, you're out!")
     print("Try to score as many runs as possible!")
-    print("Let's begin!")
+    print("Let's begin!") 
 
     total_runs = 0              # Your Score
     computer_total_runs = 0     # Computers Score
