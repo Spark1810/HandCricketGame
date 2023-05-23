@@ -5,7 +5,7 @@ Welcome to Hand Cricket, a delightfully entertaining game brought to life using 
 As you fire up the program, the screen comes alive with colorful instructions and a friendly invitation to immerse yourself in the game. The rules unfold before your eyes, promising an exciting encounter against your computer rival.
 
 With eager anticipation, you grip your virtual bat and await your turn to unleash a torrent of runs. Like a seasoned cricketer, you carefully select your batting number, ranging from 1 to 6, aiming to outsmart the crafty computer opponent. In a burst of excitement, you hit the enter key, and the digital realm quivers with anticipation.
-
+ 
 The computer, mischievously chuckling, selects its own random number, shrouded in mystery. The moment of truth arrives as the numbers are revealed, akin to a magical revelation. If the fates align, and your batting number matches that of the computer, an imaginary umpire shouts, "You're out!" Alas, you fall victim to the computer's wily tactics. But fear not, for with a different number, your runs soar higher, transforming mere pixels into a tangible score.
 
 But wait, the game is not one-sided! The computer, with an air of mystery, takes its turn to send you darting in defense. Your virtual ball is primed for action as you select your bowling number, a cunning move to bamboozle the computer. Will your intuition prevail? Or will the computer deftly evade your attempts?
