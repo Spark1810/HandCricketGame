@@ -11,8 +11,8 @@ def play_hand_cricket():
     print("Try to score as many runs as possible!")
     print("Let's begin!")
 
-    total_runs = 0
-    computer_total_runs = 0
+    total_runs = 0              # Your Score
+    computer_total_runs = 0     # Computers Score
 
     while True:
         # Player's turn
