@@ -2,7 +2,7 @@
 # Njoy the game...
 
 import random
-
+ 
 def play_hand_cricket():
     print("Welcome to Hand Cricket!")
     print("Rules: You and the computer will take turns batting and bowling.")
