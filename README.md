@@ -1,7 +1,7 @@
 # HandCricketGame
 
 Welcome to Hand Cricket, a delightfully entertaining game brought to life using the enchanting powers of Python! Prepare to embark on a virtual journey down memory lane, reliving the joyous moments of playing hand cricket in a digital realm.
-
+ 
 As you fire up the program, the screen comes alive with colorful instructions and a friendly invitation to immerse yourself in the game. The rules unfold before your eyes, promising an exciting encounter against your computer rival.
 
 With eager anticipation, you grip your virtual bat and await your turn to unleash a torrent of runs. Like a seasoned cricketer, you carefully select your batting number, ranging from 1 to 6, aiming to outsmart the crafty computer opponent. In a burst of excitement, you hit the enter key, and the digital realm quivers with anticipation.
