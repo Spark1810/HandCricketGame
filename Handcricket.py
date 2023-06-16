@@ -3,7 +3,7 @@
 
 import random
 
-def play_hand_cricket():
+def play_hand_cricket(): 
     print("Welcome to Hand Cricket!")
     print("Rules: You and the computer will take turns batting and bowling.")
     print("When batting, enter a number from 1 to 6 to score runs.")
